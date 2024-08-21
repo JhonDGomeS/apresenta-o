@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+color: aliceblue;
+background-image: url(wp2757852.gif);
+}
+
+section {
+display: flex;
+}
+h1 {
+    size: 100px;
+ }
+p {
+        size: 80px;
+  }
+header {
+    display: flex;
+width: 40%;
+height: 800px;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+
+}
+div {
+    display: flex;
+width: 60%;
+height: 800px;
+align-items: center;
+justify-content: center;
+}
